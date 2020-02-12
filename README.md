@@ -2,7 +2,7 @@
 Simple Java Program With Database 
 
 # Installation 
-If you are a biginner just use xampp , it so easy to manage .
+If you are a beginner just use xampp , it so easy to manage .
 
 1. Import bir.sql to xamppy
 2. Use Netbeans to run the form
