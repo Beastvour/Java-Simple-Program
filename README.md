@@ -1,7 +1,7 @@
 # Java-Simple-Program
 Simple Java Program With Database 
 
-# Installation 
+# Run Program 
 If you are a beginner just use xampp , it so easy to manage .
 
 1. Import bir.sql to xamppy
