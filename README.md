@@ -7,7 +7,8 @@ If you are a beginner just use xampp , it so easy to manage .
 1. Import bir.sql to xamppy
 2. Use Netbeans to run the form
 
-# Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :)
+ 
+## Donations
+### If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-https://www.paypal.com/paypalme2/joemarie425
+[![paypal](https://github.com/Ximi1970/Donate/blob/master/paypal_btn_donateCC_LG_1.gif)](https://paypal.me/joemarie425)
